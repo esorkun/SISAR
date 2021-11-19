@@ -1,0 +1,20 @@
+﻿<Page x:Class="SISAR.WPF.Updates"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SISAR.WPF"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="330"
+      Title="Updates">
+
+    <Grid>
+        <TextBlock Margin="20,10,20,10" TextWrapping="WrapWithOverflow">
+            <LineBreak></LineBreak>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sodales arcu nec ipsum faucibus, eget semper sem aliquam. Nunc quis nunc turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque convallis dapibus dui sit amet porta. Maecenas nec malesuada erat. Vivamus ut metus eleifend, ullamcorper sapien vitae, fringilla leo. Pellentesque nec augue sed tortor venenatis elementum. Praesent consequat lacus sit amet elementum dictum.
+            <LineBreak></LineBreak>
+            <LineBreak></LineBreak>
+            Ut ac ultricies magna. Integer commodo condimentum blandit. Nulla id magna mattis, venenatis orci sit amet, tincidunt dui. Proin ullamcorper et orci id porta. Integer egestas facilisis dui, at blandit nisl viverra quis. Aliquam lorem turpis, imperdiet nec magna a, tristique dapibus magna. Nulla felis massa, aliquet eget turpis ac, porttitor consectetur erat.
+        </TextBlock>
+    </Grid>
+</Page>

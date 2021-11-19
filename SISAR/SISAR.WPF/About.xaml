@@ -1,0 +1,20 @@
+﻿<Page x:Class="SISAR.WPF.About"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SISAR.WPF"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="330"
+      Title="About">
+
+    <Grid>
+        <TextBlock Margin="20,10,20,10" TextWrapping="WrapWithOverflow">
+            <LineBreak></LineBreak>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pharetra ipsum ut neque fringilla egestas sit amet at nunc. Sed ultrices venenatis lacus in suscipit. Duis pretium, nisl a accumsan laoreet, nibh odio eleifend arcu, in tincidunt velit erat eget diam. In tellus erat, pretium eget mauris eget, bibendum auctor orci. Nullam vehicula ut tellus quis mollis. Suspendisse at eros lacinia, euismod arcu ut, aliquet nisl. Nullam nisi leo, congue eget ipsum auctor, porttitor dignissim sem. Phasellus at arcu non ipsum fermentum lacinia nec sit amet orci.
+            <LineBreak></LineBreak>
+            <LineBreak></LineBreak>
+            Fusce lacinia pellentesque dui vel finibus. Maecenas sit amet consequat arcu. Cras in nibh eget felis pulvinar hendrerit. Aliquam tincidunt tincidunt orci, vel tempor est. Mauris sit amet arcu sed est molestie egestas. Quisque eu efficitur neque. Proin sem sem, elementum quis augue id, ullamcorper consequat nulla. In quis bibendum dui, id dapibus ipsum. Maecenas ullamcorper nunc ut eros porta, eget tincidunt metus feugiat.
+        </TextBlock>
+    </Grid>
+</Page>
