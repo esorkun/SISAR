@@ -8,7 +8,7 @@
         Title="MainWindow" Height="700" Width="330" ResizeMode="NoResize">
     <Grid>
         <Grid Background="#1c7ddb" HorizontalAlignment="Stretch"  VerticalAlignment="Top" Height="90" >
-            <TextBlock FontSize="45" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center">ASML</TextBlock>
+            <TextBlock FontSize="45" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center">ABCD</TextBlock>
         </Grid>
         <Menu Padding="0,10,0,5" IsMainMenu="True" MinHeight="90px" VerticalAlignment="Bottom" HorizontalAlignment="Stretch" Background="#f2f2f2">
             <Button Name="ToolsButton" BorderThickness="0px" Margin="10,0,0,0" Padding="10,0,10,0" VerticalAlignment="Center" Background="Transparent" Click="Tools_Click">
